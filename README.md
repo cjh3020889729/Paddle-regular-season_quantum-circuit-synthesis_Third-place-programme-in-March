@@ -48,7 +48,7 @@ A：在AI Studio上上传以上各目录和文件，并将ipynb导入AI Studio�
 
 * `openfermionpyscf==0.4`
 
-* `paddle-quantum` ：专注与量子计算--[量桨入门](https://qml.baidu.com/quick-start/overview.html)
+* `paddle-quantum` ：专注于量子计算--[量桨入门](https://qml.baidu.com/quick-start/overview.html)
 
 * `numpy`
 
