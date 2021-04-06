@@ -5,6 +5,29 @@
 
 **目的：构建指定量子的量子电路求解最优门的$\theta$值**
 
+## 项目结构
+	-|data
+		-|data71784
+			-|飞桨常规赛：量子电路合成.zip
+	-|work
+		-|record_logs
+		-|read_data.py
+		-|quest1.py
+		-|quest2.py
+		-|quest3.py
+		-|quest4.py
+		-|quest5.py
+		-|quest6.py
+		-|requirements.txt
+	-|logs_show
+		-|train_loss1.png
+		-|train_loss2.png
+		-|train_loss3.png
+		-|train_loss4.png
+		-|train_loss5.png
+	-README.MD
+	-all_works.ipynb
+
 ## 赛题模型搭建的依赖(可在cpu上运行)
 
 
