@@ -29,10 +29,10 @@
 	-all_works.ipynb
 
 ## 结构说明
--|data目录下为本赛题的数据
--|work目录下的questx.py为解答赛题的解答程序，其下的record_logs为vdl日志文件
--|logs_show目录下的图片为对应问题的优化Loss记录曲线图片
--|all_works.ipynb为本项目的可执行方案
+	-|data目录下为本赛题的数据
+	-|work目录下的questx.py为解答赛题的解答程序，其下的record_logs为vdl日志文件
+	-|logs_show目录下的图片为对应问题的优化Loss记录曲线图片
+	-|all_works.ipynb为本项目的可执行方案
 
 ## 使用方式
 （务必下载对应的依赖，并按照ipynb内容进行项目的运行！）
