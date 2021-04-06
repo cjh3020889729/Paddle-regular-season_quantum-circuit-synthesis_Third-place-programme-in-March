@@ -1,0 +1,3 @@
+paddle-quantum
+openfermion==0.11.0
+openfermionpyscf==0.4
