@@ -37,7 +37,7 @@
 ## 使用方式
 （务必下载对应的依赖，并按照ipynb内容进行项目的运行！）
 
-A：在AI Studio上上传以上各目录和文件，并将ipynb导入AI Studio，即可根据ipynb内容运行本项目
+A：在AI Studio上上传以上各目录和文件，并将ipynb导入AI Studio，即可根据ipynb内容[运行本项目](https://aistudio.baidu.com/aistudio/projectdetail/1620929?channelType=0&channel=0)
 
 ## 赛题模型搭建的依赖(可在cpu上运行)
 
